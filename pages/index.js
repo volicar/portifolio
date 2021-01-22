@@ -9,7 +9,6 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[My First blog]</p>
         <p>
           (Hello, I'm <strong>Vinícius</strong>. I'm a software engineering student 
           and a entrepreneur. You can contact to me on  {' '}
