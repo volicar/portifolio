@@ -10,9 +10,9 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          (Hello, I'm <strong>Vinícius</strong>. I'm a software engineering student 
+          Hello, I'm <strong>Vinícius</strong>. I'm a software engineering student 
           and a entrepreneur. You can contact to me on  {' '}
-          <a href="https://www.instagram.com/vnolicar/">Instagram</a>.)
+          <a href="https://www.instagram.com/vnolicar/">Instagram</a>.
         </p>
       </section>
     </Layout>
