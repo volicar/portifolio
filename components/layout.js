@@ -30,6 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <img
               src="https://avatars.githubusercontent.com/u/38734622?v=4"
+              title="Vinícius Olicar Profile"
               className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
               alt={name}
             />
