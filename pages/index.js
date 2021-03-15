@@ -12,7 +12,7 @@ export default function Home() {
         <p>
           Hello, I'm <b>Vinícius Olicar</b>. I'am a software engineering student 
           and a entrepreneur. You can contact to me on  {' '}
-          <a href="https://www.linkedin.com/in/vin%C3%ADcius-carvalho-01a6a3203/">LinkedIn</a> or 
+          <a href="https://www.linkedin.com/in/viniciusolicar/">LinkedIn</a> or 
           <a href="https://github.com/volicar"> GitHub</a>.
         </p>
       </section>
